@@ -1,5 +1,9 @@
 # Environment variables
 .env
+# Google OAuth files
+src/token.json
+src/credentials.json
+
 
 # Generated knowledge base files
 faiss_index_store/
