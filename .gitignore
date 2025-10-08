@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Generated knowledge base files
+faiss_index_store/
+*.pkl
+image_store/
+downloads/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+.vscode/
